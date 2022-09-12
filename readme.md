@@ -4,7 +4,7 @@
 - Copy your redirection url from Wordpress Admin Panel > Settings > Gc App Redirect to Store
 
 ## Plugin Source
-- [gokhancelebi.net](https://gokhancelebi.net/wordpress-plugin-to-create-redirect-link-for-android-and-apple-store-based-on-device/)
+- [https://gokhancelebi.net/wordpress-plugin-to-create-redirect-link-for-android-and-apple-store-based-on-device/](https://gokhancelebi.net/wordpress-plugin-to-create-redirect-link-for-android-and-apple-store-based-on-device/)
 
 Screenshot
 ----------
